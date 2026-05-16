@@ -362,8 +362,7 @@ Notes from building on the 0G stack — submitted as constructive feedback to th
 
 | | Role |
 |---|---|
-| **Dimas** | Product, GTM, design, narrative |
-| **Faisal** | Smart contracts, full-stack, 0G integration |
+| **Dimas** | Product, smart contracts, full-stack, 0G integration, design, narrative |
 
 ---
 
